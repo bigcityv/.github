@@ -1,6 +1,6 @@
 ## Willkommen
 
-Willkommen im im Git Repository vom Big City:V .
+Willkommen im Git Repository vom Big City:V.
 <br><br><br>
 ## Nützliches
 
